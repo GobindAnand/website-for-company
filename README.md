@@ -8,3 +8,4 @@ This repository has been created especially for HacktoberFest 2020!
 1. Fork this repo
 2. Clone it onto your PC
 3. Make the changes and open a PR 
+SO think how can we reduce bandwidth... this can be done by reducing the picture quality and a group class on television
