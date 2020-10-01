@@ -24,6 +24,8 @@ a{ color: white; text-decoration: none;} a:hover{background-color: coral; text-d
 <li style= color:#f7f8fa>Mail: Gobind13.anand@gmail.com </li>
 <li style= color:#f7f8fa>Mobile 9999999999</li>
 </p>
+  <br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScwBzBSfnAt6-v-RpwWQQeD3d8kEchawo7Bg&usqp=CAU" style="float:right;width:450px;height:300px;">
 <h2 style= color:#f7f8fa; id="C4">Where can it be used?</h2>
 <br>
 <table style=
